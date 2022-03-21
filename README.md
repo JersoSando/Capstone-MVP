@@ -12,3 +12,6 @@
 ## Future Features 
 * Users are able to add friends with other registered users and also see their displayed posts on the dashboard
 * Users are able to post pictures on their feed 
+
+## DB- Model
+https://app.dbdesigner.net/designer/schema/509703
